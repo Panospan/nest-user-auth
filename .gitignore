@@ -40,3 +40,4 @@ lerna-debug.log*
 /data*
 /prisma/seed.ts
 /prisma/migrations/*
+/pgdata
